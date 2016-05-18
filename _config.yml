@@ -1,0 +1,28 @@
+name: Mugsy Jeans
+favicon: null
+layout_spectrum: 0.4674399548675865
+typography_spectrum: 0.03926434135064483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.001989495474845171
+  lightness: 0.7758869775570929
+  saturation: 0.0972195784561336
+  rhythmicContrast: 0.9772844577673823
+purpose: []
