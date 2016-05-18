@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mugsy Jeans]]></title>
+        <description><![CDATA[Mugsy Jeans]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 00:36:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HOW TO WASH YOUR JEANS]]></title>
+            <description><![CDATA[<article><h1>HOW TO WASH YOUR JEANS</h1><h2>HOW TO DRY YOUR JEANS</h2><p>The number one question we get is, “How do I wash my jeans?” Most people simply put their jeans through the washer and dryer with their other clothes. What they don’t realize is that this damages the jeans and shortens their lifespan. This is especially true for “raw denim” jeans like Mugsy’s, which basically means they've never been washed or treated.</p></article>]]></description>
+            <link>undefinedhow-to-wash-your-jeans/index.html</link>
+            <guid isPermaLink="false">3bc520e3-9d8f-4d13-b832-cf247ced12ef</guid>
+            <pubDate>Wed, 18 May 2016 00:36:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
